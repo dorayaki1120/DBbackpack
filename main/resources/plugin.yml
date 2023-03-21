@@ -1,0 +1,8 @@
+name: GUI
+version: '${project.version}'
+main: dorayakiumai.gui.GUI
+api-version: 1.19
+commands:
+  backpack:
+    description: "すごいやつ"
+    usage: /<command>
